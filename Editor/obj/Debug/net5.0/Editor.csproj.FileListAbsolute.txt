@@ -1,0 +1,16 @@
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\bin\Debug\net5.0\Editor.exe
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\bin\Debug\net5.0\Editor.deps.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\bin\Debug\net5.0\Editor.runtimeconfig.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\bin\Debug\net5.0\Editor.runtimeconfig.dev.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\bin\Debug\net5.0\Editor.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\bin\Debug\net5.0\ref\Editor.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\bin\Debug\net5.0\Editor.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\Editor.csproj.AssemblyReference.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\Editor.AssemblyInfoInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\Editor.AssemblyInfo.cs
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\Editor.csproj.CoreCompileInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\Editor.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\ref\Editor.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\Editor.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\textEditor.NET\Editor\obj\Debug\net5.0\Editor.genruntimeconfig.cache
