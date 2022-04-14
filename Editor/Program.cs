@@ -6,6 +6,8 @@ namespace Editor
     {
         static void Main(string[] args)
         {
+            Menu menu = new();
+            menu.ExibirMenu();
         }
     }
 }
