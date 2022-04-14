@@ -27,5 +27,22 @@ namespace Editor
         {
 
         }
+
+        public void Salvar(string texto)
+        {
+            Console.Clear();
+            Console.WriteLine("Qual caminho para salvar o arquivo?");
+            var path = Console.ReadLine();
+
+            using (var file = new StreamWriter(path))
+            {
+                file.Write(texto);
+            }
+
+            Console.WriteLine($"Arquivo {path} salvo com sucesso!");
+            Console.ReadLine();
+            Menu menu = new();
+            menu.ExibirMenu();
+        }
     }
 }
